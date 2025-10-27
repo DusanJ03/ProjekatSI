@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dule\\Desktop\\efaks\\TRECA GODINA\\Softversko inzenjerstvo\\bekend\\PAPI\\wwwroot\\uploads\\profile-images\\07c00aba-ddc4-4dc8-add9-afc09daeb6a8.png",
+      "PackagePath": "staticwebassets\\uploads\\profile-images\\07c00aba-ddc4-4dc8-add9-afc09daeb6a8.png"
+    },
+    {
+      "Id": "C:\\Users\\Dule\\Desktop\\efaks\\TRECA GODINA\\Softversko inzenjerstvo\\bekend\\PAPI\\wwwroot\\uploads\\profile-images\\141bd9bd-ba26-40af-b2b6-0aeae25dd23d.png",
+      "PackagePath": "staticwebassets\\uploads\\profile-images\\141bd9bd-ba26-40af-b2b6-0aeae25dd23d.png"
+    },
+    {
+      "Id": "C:\\Users\\Dule\\Desktop\\efaks\\TRECA GODINA\\Softversko inzenjerstvo\\bekend\\PAPI\\wwwroot\\uploads\\profile-images\\3fe2d63f-110d-4d29-94b0-fe40fd9484c7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-images\\3fe2d63f-110d-4d29-94b0-fe40fd9484c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dule\\Desktop\\efaks\\TRECA GODINA\\Softversko inzenjerstvo\\bekend\\PAPI\\wwwroot\\uploads\\profile-images\\80e82437-f86d-4cf7-8149-3b7577ee3630.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile-images\\80e82437-f86d-4cf7-8149-3b7577ee3630.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dule\\Desktop\\efaks\\TRECA GODINA\\Softversko inzenjerstvo\\bekend\\PAPI\\wwwroot\\uploads\\profile-images\\d0f3f8c6-8222-431f-ba77-c331a8726c27.png",
+      "PackagePath": "staticwebassets\\uploads\\profile-images\\d0f3f8c6-8222-431f-ba77-c331a8726c27.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PAPI.props",
+      "PackagePath": "build\\PAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PAPI.props",
+      "PackagePath": "buildMultiTargeting\\PAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PAPI.props",
+      "PackagePath": "buildTransitive\\PAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

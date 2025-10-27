@@ -1,0 +1,130 @@
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.staticwebassets.endpoints.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.exe
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.deps.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.runtimeconfig.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\PAPI.pdb
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.csproj.AssemblyReference.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfoInputs.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfo.cs
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.csproj.CoreCompileInputs.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\scopedcss\bundle\PAPI.styles.css
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.csproj.Up2Date
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\refint\PAPI.dll
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.pdb
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\PAPI.genruntimeconfig.cache
+C:\Users\vukbo\source\repos\PAPI\PAPI\obj\Debug\net8.0\ref\PAPI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.exe
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.deps.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.runtimeconfig.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.pdb
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.AssemblyReference.cache
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfoInputs.cache
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfo.cs
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets\msbuild.PAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PAPI.props
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PAPI.props
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PAPI.props
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\scopedcss\bundle\PAPI.styles.css
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.Up2Date
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\refint\PAPI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.pdb
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\PAPI.genruntimeconfig.cache
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\obj\Debug\net8.0\ref\PAPI.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\refint\PAPI.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.pdb
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.AssemblyReference.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfoInputs.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.AssemblyInfo.cs
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.CoreCompileInputs.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.staticwebassets.endpoints.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.exe
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.deps.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.runtimeconfig.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\PAPI.pdb
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\scopedcss\bundle\PAPI.styles.css
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.csproj.Up2Date
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\PAPI.genruntimeconfig.cache
+C:\Users\vukbo\OneDrive\Desktop\bekend\PAPI\obj\Debug\net8.0\ref\PAPI.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dule\Desktop\efaks\TRECA GODINA\Softversko inzenjerstvo\bekend\PAPI\bin\Debug\net8.0\PAPI.staticwebassets.runtime.json
